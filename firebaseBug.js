@@ -1,0 +1,1 @@
+In a Firebase project, I encountered an issue where data wasn't updating in real-time using the `onValue()` method even though the data was changing in the Firebase console.  The issue was intermittent and difficult to reproduce consistently, making debugging challenging. My code appeared correct, and I had verified all the necessary configurations and permissions.
